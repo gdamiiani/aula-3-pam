@@ -1,2 +1,3 @@
-# React-Native-01-Basico
-Projeto exemplo de recursos básicos do React Native
+# Aula 2 de Programação de Aplicativos Móveis
+
+Código desenvolvido durante a aula 2 de React Native com Github e Gitpod
