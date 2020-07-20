@@ -7,7 +7,7 @@ const styles = StyleSheet.create({
   },
 
   header: {
-    marginVertical: 20,
+    paddingVertical: 8,
   },
   headerText: {
     textAlign: 'center',
@@ -58,7 +58,15 @@ const styles = StyleSheet.create({
     marginTop: 20,
     flexDirection: 'row',
     justifyContent: 'space-evenly',
-  }
+  },
+
+  result: {
+    paddingTop: 10,
+    color: '#f8f8f2',
+    fontWeight: 'bold',
+    fontSize: 16,
+    textAlign: 'center',
+  },
 });
 
 export default styles;

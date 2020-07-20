@@ -46,7 +46,7 @@ function Welcome(props) {
         {showInfo && (
           <Text style={styles.headerText}>Olá {name} {lastName}!</Text>
         ) || requestInfo && (
-          <Text style={styles.headerText}>Informe seus dados para continuar</Text>
+          <Text style={styles.headerText}>Identifique-se</Text>
         ) || (
           <Text style={styles.headerText}>Olá! {greeting}</Text>
         )}
